@@ -7,12 +7,12 @@ I guess these are enough excuses for making my own hot air station. Since I cann
 
 I will try to add everything I have cooked so far in the coming days.
 
-![micro_stream](https://github.com/KimagureCookie/-Stream/blob/main/uStream_render.jpg?raw=true)
+![micro_stream](./Pictures/uStream_render.jpg)
 
 Edit: As of now everything on hardware is tested and corrected in schematics/PCB. The idea of implementing the thermo-couple amplifier using an precision op-amp has to be scratched since, I can't figure out the problem with my current setup (glad I implemented the MAX6675 as a backup!).
 Although I have run basic software tests, there is still more code to test thoroughly.
 
-![p1](https://github.com/KimagureCookie/uStream/blob/main/Pictures/PXL_20230507_012747512.jpg)
+![p1](./Pictures/PXL_20230507_012747512.jpg)
 
-![p2](https://github.com/KimagureCookie/uStream/blob/main/Pictures/PXL_20230507_141544661.jpg)
+![p2](./Pictures/PXL_20230507_141544661.jpg)
 
