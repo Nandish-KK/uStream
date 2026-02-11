@@ -16,3 +16,6 @@ Although I have run basic software tests, there is still more code to test thoro
 
 ![p2](./Pictures/Inside.png)
 
+![Schematic](./Pictures/Schematic_uStream.png)
+*Version 2 Schematics*
+
